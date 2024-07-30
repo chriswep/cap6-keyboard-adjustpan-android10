@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "cap6-keyboard-adjustpan-android10",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
